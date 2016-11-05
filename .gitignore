@@ -11,3 +11,4 @@ bootstrap.log
 bjam.exe
 project-config.jam
 project-config.jam.*
+libs/config/checks/architecture/bin/
