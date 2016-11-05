@@ -10,3 +10,4 @@ tools/build/src/engine/bootstrap/
 bootstrap.log
 bjam.exe
 project-config.jam
+project-config.jam.*
