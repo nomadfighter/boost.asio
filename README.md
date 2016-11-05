@@ -1,2 +1,2 @@
 # boost.asio
-boost asio裁减
+用boost.bcp工具裁减的asio库
