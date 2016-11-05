@@ -1,0 +1,7 @@
+bin.v2/
+tools/build/src/engine/bin.*
+stage/
+b2
+bjam
+tools/build/src/engine/bootstrap/jam0
+project-config.jam.1
