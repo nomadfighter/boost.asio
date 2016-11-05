@@ -5,3 +5,8 @@ b2
 bjam
 tools/build/src/engine/bootstrap/jam0
 project-config.jam.1
+b2.exe
+tools/build/src/engine/bootstrap/
+bootstrap.log
+bjam.exe
+project-config.jam
