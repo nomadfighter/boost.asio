@@ -7,4 +7,4 @@ if [ ! -f "$boostbuild" ]; then
     ./bootstrap.sh
 fi
 
-./b2 --with-chrono --with-system --with-regex --with-date_time  link=static runtime-link=static
+./b2 cxxflags='-fPIC' --with-chrono --with-system --with-regex --with-date_time  link=static runtime-link=static
